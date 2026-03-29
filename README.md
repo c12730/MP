@@ -1,0 +1,1 @@
+This project is the experimental data of "Multi-Panzer" agent. The experimental data is divided into four Excel files according to the experiment chapters. Each Excel file contains the net scores of 100 tests for each experimental setting.
